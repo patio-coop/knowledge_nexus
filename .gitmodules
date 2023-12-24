@@ -1,9 +1,9 @@
 [submodule "apps/bbs/shinano"]
-	path = apps/bbs/shinano
+	path = submodules/bbs/shinano
 	url = git@github.com:tng-coop/shinano.git
 [submodule "homepages/patio-homepage"]
-	path = apps/homepages/patio-homepage
+	path = submodules/homepages/patio-homepage
 	url = git@github.com:patio-coop/patio-homepage.git
 [submodule "apps/edu/interactive-math"]
-	path = apps/edu/interactive-math
+	path = submodules/edu/interactive-math
 	url = git@github.com:yugawara/interactive-math.git
