@@ -7,3 +7,6 @@
 [submodule "apps/edu/interactive-math"]
 	path = submodules/edu/interactive-math
 	url = git@github.com:yugawara/interactive-math.git
+[submodule "submodules/tools/github-artifact-viewer"]
+	path = submodules/tools/github-artifact-viewer
+	url = git@github.com:tng-coop/github-artifact-viewer.git
