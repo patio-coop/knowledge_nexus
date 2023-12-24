@@ -1,0 +1,3 @@
+[submodule "apps/bbs/shinano"]
+	path = apps/bbs/shinano
+	url = git@github.com:tng-coop/shinano.git
