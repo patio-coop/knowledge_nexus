@@ -13,4 +13,15 @@ When deciding between a link or a document, keep in mind that people may suddenl
 
 ## Topics list
 
-Right now there are no topics.
+### Mathematics
+[Everything mathematics related](https://github.com/patio-coop/knowledge_nexus/blob/main/topics/mathematics.md).
+
+### Websites
+[Source code for web-sites](https://github.com/patio-coop/knowledge_nexus/blob/main/topics/websites.md).
+
+### Programming
+[All programming projects that don't go to other topics](https://github.com/patio-coop/knowledge_nexus/blob/main/topics/programming.md).
+
+
+
+
