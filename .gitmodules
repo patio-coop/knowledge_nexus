@@ -4,3 +4,6 @@
 [submodule "homepages/patio-homepage"]
 	path = homepages/patio-homepage
 	url = git@github.com:patio-coop/patio-homepage.git
+[submodule "apps/edu/interactive-math"]
+	path = apps/edu/interactive-math
+	url = git@github.com:yugawara/interactive-math.git
