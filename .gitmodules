@@ -10,3 +10,4 @@
 [submodule "submodules/tools/github-artifact-viewer"]
 	path = submodules/tools/github-artifact-viewer
 	url = git@github.com:tng-coop/github-artifact-viewer.git
+	branch = main
