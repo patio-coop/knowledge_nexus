@@ -16,6 +16,9 @@ When deciding between a link or a document, keep in mind that people may suddenl
 ### Mathematics
 [Everything mathematics related](https://github.com/patio-coop/knowledge_nexus/blob/main/topics/mathematics.md).
 
+### Physics 
+[Everything physics related](https://github.com/patio-coop/knowledge_nexus/blob/main/topics/physics.md).
+
 ### Websites
 [Source code for web-sites](https://github.com/patio-coop/knowledge_nexus/blob/main/topics/websites.md).
 
