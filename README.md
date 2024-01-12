@@ -13,6 +13,9 @@ When deciding between a link or a document, keep in mind that people may suddenl
 
 ## Topics list
 
+### Cooperation
+[Anything that helps cooperation and cooperatives.](https://github.com/patio-coop/knowledge_nexus/blob/main/topics/cooperation.md).
+
 ### Mathematics
 [Everything mathematics related](https://github.com/patio-coop/knowledge_nexus/blob/main/topics/mathematics.md).
 
